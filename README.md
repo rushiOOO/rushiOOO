@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushikesh
-- ![logo](https://github.com/rushiOOO/Rushikesh/blob/main/Untitled1.jpg)
+- ![logo](https://github.com/rushiOOO/rushiOOO/blob/main/Untitled1.jpg)
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
 <h3 align="center">A passionate Java full developer from India</h3>
 
